@@ -1,6 +1,4 @@
-Hi there, I'm Namrata! 👋
-
-Hi, I'm Anurag Hazra, a passionate self-taught Backend web developer from India.
+Hi, I'm Namrata , a passionate self-taught Backend web developer from India.
 
 🔭 I’m currently working on RESTful web services using Spring Boot
 🌱 I’m currently learning TDD
